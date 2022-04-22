@@ -1,9 +1,9 @@
 /**
  * @file Main.c
- * @author Malakalapalli Nagendra
+ * @author masani sai bhargav
  * @brief 
  * @version 0.1
- * @date 2022-03-08
+ * @date 2022-04-23
  * 
  * @copyright Copyright (c) 2022
  * 
